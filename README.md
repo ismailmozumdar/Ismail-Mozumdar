@@ -1,4 +1,4 @@
-![I am Ismail Mozumdar](https://github.com/harun181/harun181/blob/main/page.png)
+![I am Ismail Mozumdar](https://raw.githubusercontent.com/ismailmozumdar/ismaimozumdar/main/2.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ismail Mozumdar</h1>
