@@ -33,8 +33,7 @@ Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS / telwind
  </p>
  
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/js/" target="_blank"> <i class="fab fa-js-square" alt="html5" width="40" height="40"/></i> </a>  
+<p align="left">  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -43,8 +42,8 @@ Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS / telwind
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hablu-programmer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmozumdar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hablu-programmer)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hablu-programmer)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailmozumdar&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismailmozumdar)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailmozumdar)  
