@@ -48,8 +48,8 @@ Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS / telwind
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hablu-programmer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user=ismailmozumdar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=user=ismailmozumdar&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismailmozumdar)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailmozumdar)  
