@@ -14,15 +14,13 @@ Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on [Ismail Mozumdar Team](https://ismailmozumdar.github.io/developer-proutpolio/)
 
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hablu-programmer](https://github.com/hablu-programmer)
-
-- 📝 I regularly uploads videos on [https://www.youtube.com/habluprogrammer1](https://www.youtube.com/habluprogrammer1)
+- 👨‍💻 All of my projects are available at [https://github.com/ismailmozumdar](https://github.com/hablu-programmer)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **habluprogrammer@gmail.com**
+- 📫 How to reach me **ismailmozumdar770@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
