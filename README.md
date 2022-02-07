@@ -5,7 +5,7 @@
 <h3 align="center">I am A professional web & graphics designer and a web developer
 </h3>
 
-![Profile views](https://github.com/ismailmozumdar/) 
+![Profile views](https://github.com/ismailmozumdar/ismailmozumdar/) 
 
 Welcome to my GitHub profile. I am A professional web & graphics designer and a web developer
 Knock me: https://web.facebook.com/IsmailHossainMozumdar6
