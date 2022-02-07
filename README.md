@@ -9,7 +9,7 @@
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
 Knock me: m.facebook.com/hablu420
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS
  
 
 - 🔭 I’m currently working on [Ismail Mozumdar Team](https://ismailmozumdar.github.io/developer-proutpolio/)
