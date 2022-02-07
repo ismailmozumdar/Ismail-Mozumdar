@@ -1,37 +1,34 @@
 ![Ismila Mozumdar](https://raw.githubusercontent.com/ismailmozumdar/ismaimozumdar/main/2.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Hablu Programmer</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
+<h1 align="center">Hi 👋, I'mIsmila Mozumdar</h1>
+<h3 align="center">I am A professional web & graphics designer and a web developer.</h3>
 
-![Profile views](https://gpvc.arturio.dev/hablu-programmer) 
+![Profile views](https://github.com/ismailmozumdar) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/hablu420
+Welcome to my GitHub profile.I am A professional web & graphics designer and a web developer. 
+Knock me: m.facebook.com/Ismailmozumdar307
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS / telwind
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
+- 🔭 I’m currently working on [Ismail Mozumdar Team](https://ismailmozumdar.github.io/developer-proutpolio/)
 
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hablu-programmer](https://github.com/hablu-programmer)
+- 👨‍💻 All of my projects are available at [https://github.com/ismailmozumdar](https://github.com/hablu-programmer)
 
-- 📝 I regularly uploads videos on [https://www.youtube.com/habluprogrammer1](https://www.youtube.com/habluprogrammer1)
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, telwind, NODE.JS**
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **habluprogrammer@gmail.com**
+- 📫 How to reach me **ismailmozumdar770r@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hablu420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hablu programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
-<a href="https://instagram.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://fb.com/Ismailmozumdar307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://twitter.com/IsmailH12955270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismail-mozumdar-13000b224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.youtube.com/UCUV1ks3lz6rT8F6SkksUhnA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
+<a href="https://instagram.com/ismailh12955270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,5 +51,5 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hablu-programmer)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hablu-programmer)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hablu-programmer)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismailmozumdar)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailmozumdar)  
