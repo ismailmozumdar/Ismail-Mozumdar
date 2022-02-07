@@ -1,20 +1,55 @@
-### Hi there 👋,  I am Ismail Mozumdar
-#### I am A professional web & graphics designer and a web developer
-![I am A professional web & graphics designer and a web developer](https://raw.githubusercontent.com/ismailmozumdar/Ismail-Mozumdar/main/2.jpg)
+![I am Ismail Mozumdar](https://github.com/harun181/harun181/blob/main/page.png)
 
-Hi, I am Ismail Mozumdar. I am A professional web & graphics designer and a web developer. I do some offline websites. And an online website. Contact Us Facebook: facebook.com/IsmailHossainMozumdar6
 
-Skills:  JS / HTML / CSS
+<h1 align="center">Hi 👋, I'm Ismail Mozumdar</h1>
+<h3 align="center">I am A professional web & graphics designer and a web developer
+</h3>
 
-- 🔭 I’m currently working on this page. 
+![Profile views](https://github.com/ismailmozumdar/) 
+
+Welcome to my GitHub profile. I am A professional web & graphics designer and a web developer
+Knock me: https://web.facebook.com/IsmailHossainMozumdar6
+
+Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS / telwind
  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 🔭 I’m currently working on [Ismail Mozumdar Team](https://ismailmozumdar.github.io/developer-proutpolio/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmozumdar)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **JS**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailmozumdar&show_icons=true)  
+- 👨‍💻 All of my projects are available at [https://github.com/ismailmozumdar/i](https://github.com/ismailmozumdar/i)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailmozumdar)  
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, telwind**
 
-![Profile views](https://gpvc.arturio.dev/ismailmozumdar)  
+- 📫 How to reach me **ismailmozumdar770@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/IsmailHossainMozumdar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://twitter.com/IsmailH12955270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismail-mozumdar-13000b224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://instagram.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hablu-programmer)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hablu-programmer)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hablu-programmer)  
