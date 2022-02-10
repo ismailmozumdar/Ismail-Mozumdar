@@ -40,8 +40,8 @@ Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS
 <a href="https://www.adobe.com/in/products/illustrator.html" _target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" _target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
- <img src="https://raw.githubusercontent.com/ismailmozumdar/ismailmozumdar/main/Screenshot_2.png" alt="" style="float: left;width: 50%;">
-    <img src="https://raw.githubusercontent.com/ismailmozumdar/ismailmozumdar/main/Screenshot_2.png" alt="" style="float: right;width: 50%;">
+ <img align="left" src="https://raw.githubusercontent.com/ismailmozumdar/ismailmozumdar/main/Screenshot_2.png" alt="" style=width: 50%;">
+    <img align="right" src="https://raw.githubusercontent.com/ismailmozumdar/ismailmozumdar/main/Screenshot_1.png" alt="" style="width: 50%;">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailmozumdar&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismailmozumdar)  
